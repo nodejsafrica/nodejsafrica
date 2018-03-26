@@ -30,12 +30,12 @@ NodeJS Africa is currently chaired by Agiri Abraham Junior ([@codeekage](https:/
 ## New Initiatives?
 
 ### NodeJS African Women
-This initiative is pioneered by Hassan Sani (@iNidAName) in acknowledgement of the International Women’s Day as a way of gathering the African girl children and women into coding and open sourcing in Africa using Node.js and JS technologies. This initiative is currently chaired by Theodora Isola (@theodoraisola) and  Ojukwu Gloria. We believe this will be a way of  starting something new in Node.js Foundation.
+This initiative is pioneered by Hassan Sani ([@iNidAName](https://github.com/inidaname)) in acknowledgement of the International Women’s Day as a way of gathering the African girl children and women into coding and open sourcing in Africa using Node.js and JS technologies. This initiative is currently chaired by Theodora Isola ([@theodoraisola](https://github.com/theodoraisola)) and  Ojukwu Gloria. We believe this will be a way of  starting something new in Node.js Foundation.
 
 
 ### Mentorship Writing Program
 
-This initiative is pioneered by Agiri Abraham Junior (@codeekage). We usually encourage people to get started with contributing to open-source and we also say start off with   documentations but the tTech -Ccommunities have not made room for training people into going to writing and documentation as Open Source contribution other than coding or a particular language or a technology. Documentation being the most important part of a language or framework has never had meetup for such reasons and that is why NodeJS Africa has brought up the initiative of having a mentorship program for just technical writing, proofreading and documentation. We hope it is welcomed. This initiative is currently chaired by Rachael Onuigbo (@raechaelo).
+This initiative is pioneered by Agiri Abraham Junior ([@codeekage](https://github.com/codeekage)). We usually encourage people to get started with contributing to open-source and we also say start off with   documentations but the tTech -Ccommunities have not made room for training people into going to writing and documentation as Open Source contribution other than coding or a particular language or a technology. Documentation being the most important part of a language or framework has never had meetup for such reasons and that is why NodeJS Africa has brought up the initiative of having a mentorship program for just technical writing, proofreading and documentation. We hope it is welcomed. This initiative is currently chaired by Rachael Onuigbo ([@raechaelo](https://github.com/raechaelo)).
 
 ## How we intend to achieve our goals?
 
