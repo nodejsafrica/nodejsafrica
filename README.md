@@ -3,7 +3,7 @@
 
 # Node.js Africa
 
-Node.js Africa is an open source organization established to expand the growth of Node.js in Africa.
+*Node.js Africa is an open source organization established to expand the growth of Node.js in Africa.*
 
 ## Objectives and Goals?
 Our goal is to build a community that preach open-source, teach node_modules, talk node_modules, design node_modules in a diverse community of open-source and open-sorcerer in  Africa. 
@@ -19,13 +19,17 @@ NodeJS Africa is currently chaired by Agiri Abraham Junior ([@codeekage](https:/
 
 - Agiri Abraham Jnr. ([@codeekage](https://github.com/codeekage)) Administration.
 - Hassan Sani ([@iNidAName](https://github.com/inidaname)) Administration.
-- Precious Chukundah ([@chukundah](https://github.com/chukundah)) Publicity and Maintenance.
+- Precious Chukundah ([@chukundah](https://github.com/chukundah)) Publicity and Web Dev.
 - Precious Dike ([@supardyke](https://github.com/supardyke)) Mentoring and Code Administration.
 - Atauba Prince ([@achowba](https://github.com/achowba)) Administration.
 - Gabriel Eze ([@chuqdenis](https://github.com/chuqdenis)) Community-Manager and Designs.
 - Theodora ([@theodoraisola](https://github.com/theodoraisola)) NodeJS Africa Women Administration.
 - Gloria Pius () NodeJS Africa Women Mentoring and Code Administration.
+
+
+## Contributors?
 - Rachael Onuigbo ([@raechaelo](https://github.com/raechaelo)) Nodejs African Writers Mentoring.
+
 
 ## New Initiatives?
 
