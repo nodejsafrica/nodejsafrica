@@ -2,7 +2,7 @@
 
 *Node.js Africa is an open source organization established to expand the growth of Node.js in Africa.*
 
-## Objectives and Goals?
+## Objectives and Goals
 Our goal is to build a community that preach open-source, teach node_modules, talk node_modules, design node_modules in a diverse community of open-source and open-sorcerer in  Africa. 
 
 We hope to spread the news about Node.js and JS in Africa, not just by code commits but technical writing, content development for Node.js/JS, and developing a community of the nNext billion users. 
@@ -11,7 +11,7 @@ To also see, that Node.js is globalized, encouraging diversity and collaboration
 
 As an open-source community, we focus on developing the developer who develops the content, who speaks the language (JS) and administers the technology (Node.js). We work to equip problem solvers with modules and software to make development easier and more proficient even for end-users everyday activities. We also be to organizing hackathons, conferences and meetups around Africa, as a way of getting Africans more involved in the Node.js Foundation projects.
 
-## Governance?
+## Governance
 NodeJS Africa is currently chaired by Agiri Abraham Junior ([@codeekage](https://twitter.com/codeekage)) and with the assistance of Hassan Sani ([@iNidAName](https://twitter.com/inidaname)), Precious Chukundah ([@pachukundah](https://twitter.com/pachukundah)), Precious Dike (@supardyke), Atauba Prince ([@achowba_](https://twitter.com/achowba_)), Gabriel Eze ([@chuqdenis](https://twitter.com/chuqdenis)), Theodora Isola ([@theodoraisola](https://twitter.com/theodoraisola)),  Ojukwu Gloria  (), Rachael Onuigbo (@raechaelo). To facilitate the work of this body, individual roles have been assigned to the selected individual and these are the current sublets of NodeJS Africa.
 
 - Agiri Abraham Jnr. ([@codeekage](https://github.com/codeekage)) Administration.
@@ -22,7 +22,7 @@ NodeJS Africa is currently chaired by Agiri Abraham Junior ([@codeekage](https:/
 - Gabriel Eze ([@chuqdenis](https://github.com/chuqdenis)) Community-Manager and Designs.
 - Theodora ([@theodoraisola](https://github.com/theodoraisola)) NodeJS Africa Women Administration.
 
-## Contributors?
+## Contributors
 - Rachael Onuigbo ([@raechaelo](https://github.com/raechaelo)) Nodejs African Writers Mentoring.
 
 
@@ -44,7 +44,10 @@ We also believe in doing while learning; members will be fully involved in asses
 
 We will also guide our members in writing world class documentations and article for Node.js/JS and any other language of their choice, as documentation is the power of any language, technology or framework.
 
-## Our Guide?
+## Our Guide
+
+Local Chapters MUST at least have one of each topic in there public doucmentation.
+
 ### HTML/CSS and Design Concept.
 ### JavaScript
 - Variables.
