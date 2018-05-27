@@ -21,14 +21,12 @@ NodeJS Africa is currently chaired by Agiri Abraham Junior ([@codeekage](https:/
 - Atauba Prince ([@achowba](https://github.com/achowba)) Administration.
 - Gabriel Eze ([@chuqdenis](https://github.com/chuqdenis)) Community-Manager and Designs.
 - Theodora ([@theodoraisola](https://github.com/theodoraisola)) NodeJS Africa Women Administration.
-- Gloria Pius () NodeJS Africa Women Mentoring and Code Administration.
-
 
 ## Contributors?
 - Rachael Onuigbo ([@raechaelo](https://github.com/raechaelo)) Nodejs African Writers Mentoring.
 
 
-## New Initiatives?
+## New Initiatives
 
 ### NodeJS African Women
 This initiative is pioneered by Hassan Sani ([@iNidAName](https://github.com/inidaname)) in acknowledgement of the International Women’s Day as a way of gathering the African girl children and women into coding and open sourcing in Africa using Node.js and JS technologies. This initiative is currently chaired by Theodora Isola ([@theodoraisola](https://github.com/theodoraisola)) and  Ojukwu Gloria. We believe this will be a way of  starting something new in Node.js Foundation.
@@ -38,7 +36,7 @@ This initiative is pioneered by Hassan Sani ([@iNidAName](https://github.com/ini
 
 This initiative is pioneered by Agiri Abraham Junior ([@codeekage](https://github.com/codeekage)). We usually encourage people to get started with contributing to open-source and we also say start off with   documentations but the tTech -Ccommunities have not made room for training people into going to writing and documentation as Open Source contribution other than coding or a particular language or a technology. Documentation being the most important part of a language or framework has never had meetup for such reasons and that is why NodeJS Africa has brought up the initiative of having a mentorship program for just technical writing, proofreading and documentation. We hope it is welcomed. This initiative is currently chaired by Rachael Onuigbo ([@raechaelo](https://github.com/raechaelo)).
 
-## How we intend to achieve our goals?
+## How we intend to achieve our goals
 
 As an open-source community we don’t only believe in organizing meetups or talk session or having slide presentation from speakers but we believe in having a fellowship and mentorship systems that encourages the participants i.e. our members to learn more and do more. That’s why Node in Africa (Node.js Africa) will be organizing bi-weekly training session for its member. This training will cut across from the novice level of HTML/CSS and JS up to using Node.js as an expert which includes developing with Node.jsnode_modules and contributing to the Nnode.js core. 
 
@@ -75,13 +73,15 @@ We will also guide our members in writing world class documentations and article
 As a way of contributing to node.js documentation and js, packages designed by members will be documented by Node in Africa documentation team which every member is already a part of and documentation will be added to Node in Africa JavaScript and Node.js documentation page.
 
 
-## Meeting Structure?
+## Meeting Structure
+
+All Chapter MUST adpot these meeting structure
 - General Meetups → Bi-Weekly.
 - Documentation Meetups → Once a month.
 - SheNode.js Meetup → Once a month.
 - Collaboration meetings → Random.
 
 ## How to become a member?
-Attend any Node JS Africa meetups around Africa and you are automatically a member, we’ll love to see you grow into the developer you want to be. 
+You MUST belong to local chapter to be recongized as a member of Node.js Africa
 
-#TeamNodeInAfrica.
+Slack: nodeslackers.com #africa
