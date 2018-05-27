@@ -1,6 +1,3 @@
-# team-nodejs-africa
-
-
 # Node.js Africa
 
 *Node.js Africa is an open source organization established to expand the growth of Node.js in Africa.*
