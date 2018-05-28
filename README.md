@@ -85,6 +85,6 @@ All Chapter MUST adpot these meeting structure
 - Collaboration meetings → Random.
 
 ## How to become a member?
-You MUST belong to local chapter to be recongized as a member of Node.js Africa
+You **MUST** belong to local chapter to be recongized as a member of Node.js Africa
 
-Slack: nodeslackers.com #africa
+Slack: [nodeslackers.com](https://nodeslackers.com) #africa channel
